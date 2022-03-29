@@ -1,2 +1,4 @@
-package com.GoldmanSachs.App.model;public interface EventRepository {
+package com.GoldmanSachs.App.model;
+
+public interface EventRepository {
 }
